@@ -1,9 +1,9 @@
 hidden=[".config"]
 
 # hosting is currently hardcoded for this language
-# [hosting]
-# route = "/"
-# directory= "/"
+[hosting]
+route = "https://github.com/TristanC12/moko1"
+directory= "/docs"
 
 [nix]
 channel = "stable-22_11"
